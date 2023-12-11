@@ -1,3 +1,3 @@
 # IMDB Web Scraper
 
-Gets Top 100 movies in IMDB and exports as a excel file.
+Gets Top 250 movies in IMDB and exports as a excel file.
